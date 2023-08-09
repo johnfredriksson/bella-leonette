@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bella-leonette/static/css/main.0ef0f49e.css",
-    "main.js": "/bella-leonette/static/js/main.a6b5cfc0.js",
+    "main.css": "/bella-leonette/static/css/main.3ddc204d.css",
+    "main.js": "/bella-leonette/static/js/main.750627cd.js",
     "static/js/872.5dbfcadf.chunk.js": "/bella-leonette/static/js/872.5dbfcadf.chunk.js",
     "static/js/227.37da42c8.chunk.js": "/bella-leonette/static/js/227.37da42c8.chunk.js",
     "static/js/526.bfc0f510.chunk.js": "/bella-leonette/static/js/526.bfc0f510.chunk.js",
@@ -10,8 +10,8 @@
     "static/js/787.c1112931.chunk.js": "/bella-leonette/static/js/787.c1112931.chunk.js",
     "static/media/bellaShoulder.jpg": "/bella-leonette/static/media/bellaShoulder.9556b3c6e6f6b631e0d4.jpg",
     "index.html": "/bella-leonette/index.html",
-    "main.0ef0f49e.css.map": "/bella-leonette/static/css/main.0ef0f49e.css.map",
-    "main.a6b5cfc0.js.map": "/bella-leonette/static/js/main.a6b5cfc0.js.map",
+    "main.3ddc204d.css.map": "/bella-leonette/static/css/main.3ddc204d.css.map",
+    "main.750627cd.js.map": "/bella-leonette/static/js/main.750627cd.js.map",
     "872.5dbfcadf.chunk.js.map": "/bella-leonette/static/js/872.5dbfcadf.chunk.js.map",
     "227.37da42c8.chunk.js.map": "/bella-leonette/static/js/227.37da42c8.chunk.js.map",
     "526.bfc0f510.chunk.js.map": "/bella-leonette/static/js/526.bfc0f510.chunk.js.map",
@@ -20,7 +20,7 @@
     "787.c1112931.chunk.js.map": "/bella-leonette/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ef0f49e.css",
-    "static/js/main.a6b5cfc0.js"
+    "static/css/main.3ddc204d.css",
+    "static/js/main.750627cd.js"
   ]
 }
