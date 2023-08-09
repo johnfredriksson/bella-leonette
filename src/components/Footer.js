@@ -14,7 +14,7 @@ export default function Footer() {
         <div className="h-4 border-b-[10px] border-zinc-300"></div>
         <div className="h-4 border-b-[11px] border-zinc-300"></div>
         <div className="h-4 border-b-[12px] mb-[3px] border-zinc-300"></div>
-        <div className="h-40 bg-zinc-300 flex flex-col justify-center tracking-widest">
+        <div className="h-40 bg-zinc-300 flex flex-col font-bold justify-center tracking-widest">
             <a className="text-white" href="https://open.spotify.com/artist/0Qzh6QfLR7zubyDl581ZOt?si=4mQQSqjBTpC3tOuODfBV8A">spotify</a>
             <a className="text-white" href="https://www.instagram.com/bellaleonette/">instagram</a>
             <p className="text-white">© en bella leonette produktion, 2023</p>

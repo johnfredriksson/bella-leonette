@@ -2,6 +2,20 @@
 import bellaShoulder from './images/bellaShoulder.jpg'
 export default function News() {
   return (
+    <>
+        <div className="h-4 border-b-[1px] border-zinc-100"></div>
+        <div className="h-4 border-b-[2px] border-zinc-100"></div>
+        <div className="h-4 border-b-[3px] border-zinc-100"></div>
+        <div className="h-4 border-b-[4px] border-zinc-100"></div>
+        <div className="h-4 border-b-[5px] border-zinc-100"></div>
+        <div className="h-4 border-b-[6px] border-zinc-100"></div>
+        <div className="h-4 border-b-[7px] border-zinc-100"></div>
+        <div className="h-4 border-b-[8px] border-zinc-100"></div>
+        <div className="h-4 border-b-[9px] border-zinc-100"></div>
+        <div className="h-4 border-b-[10px] border-zinc-100"></div>
+        <div className="h-4 border-b-[11px] border-zinc-100"></div>
+        <div className="h-4 border-b-[12px] mb-1 border-zinc-100"></div>
+
     <section className="relative .news min-h-[50vh] lg:bg-gray-100 lg:grid lg:grid-cols-2">
         <div className='z-10 lg:relative'>
             <p className='text-xs pt-5 lg:mt-10 text-gray-600'>THE SATCHI SIX PRESENTS</p>
@@ -18,5 +32,19 @@ export default function News() {
         </div>
         <img className="-z-10 lg:z-0 absolute top-0 lg:relative h-[100%] w-[100%] object-cover" src={bellaShoulder} alt='Bella Leonette'/>
     </section>
+    <div className="h-4 border-b-[12px] border-zinc-100"></div>
+    <div className="h-4 border-b-[11px] border-zinc-100"></div>
+    <div className="h-4 border-b-[10px] border-zinc-100"></div>
+    <div className="h-4 border-b-[9px] border-zinc-100"></div>
+    <div className="h-4 border-b-[8px] border-zinc-100"></div>
+    <div className="h-4 border-b-[7px] border-zinc-100"></div>
+    <div className="h-4 border-b-[6px] border-zinc-100"></div>
+    <div className="h-4 border-b-[5px] border-zinc-100"></div>
+    <div className="h-4 border-b-[4px] border-zinc-100"></div>
+    <div className="h-4 border-b-[3px] border-zinc-100"></div>
+    <div className="h-4 border-b-[2px] border-zinc-100"></div>
+    <div className="h-4 border-b-[1px] border-zinc-100"></div>
+
+    </>
   )
 }
